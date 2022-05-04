@@ -14,7 +14,7 @@ public class Exercise1 {
 		}
 	}
 
-	public String convertirBaseGabriel(int a) {
+	public String convertirBaseGabriel(int numero) {
 
 		int num_decimal = 0, digito, contador = 1, n; 
 		int es_gabriel = 1, min_significativo = 0; //Nao = 0 - Sim = 1	
